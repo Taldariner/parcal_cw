@@ -1,0 +1,54 @@
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\bin\Debug\net6.0\Client_1.exe
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\bin\Debug\net6.0\Client_1.deps.json
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\bin\Debug\net6.0\Client_1.runtimeconfig.json
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\bin\Debug\net6.0\Client_1.dll
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\bin\Debug\net6.0\Client_1.pdb
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\bin\Debug\net6.0\TCP_client.dll
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\bin\Debug\net6.0\TCP_client.pdb
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\obj\Debug\net6.0\Client_1.csproj.AssemblyReference.cache
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\obj\Debug\net6.0\Client_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\obj\Debug\net6.0\Client_1.AssemblyInfoInputs.cache
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\obj\Debug\net6.0\Client_1.AssemblyInfo.cs
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\obj\Debug\net6.0\Client_1.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\obj\Debug\net6.0\Client_1.csproj.CopyComplete
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\obj\Debug\net6.0\Client_1.dll
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\obj\Debug\net6.0\refint\Client_1.dll
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\obj\Debug\net6.0\Client_1.pdb
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\obj\Debug\net6.0\Client_1.genruntimeconfig.cache
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\Client_1\obj\Debug\net6.0\ref\Client_1.dll
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\bin\Debug\net6.0\Client_1.exe
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\bin\Debug\net6.0\Client_1.deps.json
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\bin\Debug\net6.0\Client_1.runtimeconfig.json
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\bin\Debug\net6.0\Client_1.dll
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\bin\Debug\net6.0\Client_1.pdb
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\bin\Debug\net6.0\TCP_client.dll
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\bin\Debug\net6.0\TCP_client.pdb
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\obj\Debug\net6.0\Client_1.csproj.AssemblyReference.cache
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\obj\Debug\net6.0\Client_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\obj\Debug\net6.0\Client_1.AssemblyInfoInputs.cache
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\obj\Debug\net6.0\Client_1.AssemblyInfo.cs
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\obj\Debug\net6.0\Client_1.csproj.CoreCompileInputs.cache
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\obj\Debug\net6.0\Client_1.csproj.CopyComplete
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\obj\Debug\net6.0\Client_1.dll
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\obj\Debug\net6.0\refint\Client_1.dll
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\obj\Debug\net6.0\Client_1.pdb
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\obj\Debug\net6.0\Client_1.genruntimeconfig.cache
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\Client_1\obj\Debug\net6.0\ref\Client_1.dll
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\bin\Debug\net6.0\Client_1.exe
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\bin\Debug\net6.0\Client_1.deps.json
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\bin\Debug\net6.0\Client_1.runtimeconfig.json
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\bin\Debug\net6.0\Client_1.dll
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\bin\Debug\net6.0\Client_1.pdb
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\bin\Debug\net6.0\TCP_client.dll
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\bin\Debug\net6.0\TCP_client.pdb
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\obj\Debug\net6.0\Client_1.csproj.AssemblyReference.cache
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\obj\Debug\net6.0\Client_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\obj\Debug\net6.0\Client_1.AssemblyInfoInputs.cache
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\obj\Debug\net6.0\Client_1.AssemblyInfo.cs
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\obj\Debug\net6.0\Client_1.csproj.CoreCompileInputs.cache
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\obj\Debug\net6.0\Client_1.csproj.CopyComplete
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\obj\Debug\net6.0\Client_1.dll
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\obj\Debug\net6.0\refint\Client_1.dll
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\obj\Debug\net6.0\Client_1.pdb
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\obj\Debug\net6.0\Client_1.genruntimeconfig.cache
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\Client_1\obj\Debug\net6.0\ref\Client_1.dll

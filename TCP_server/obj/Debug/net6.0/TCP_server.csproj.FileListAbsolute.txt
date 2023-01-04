@@ -1,0 +1,45 @@
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\bin\Debug\net6.0\TCP_server.exe
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\bin\Debug\net6.0\TCP_server.deps.json
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\bin\Debug\net6.0\TCP_server.runtimeconfig.json
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\bin\Debug\net6.0\TCP_server.dll
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\bin\Debug\net6.0\TCP_server.pdb
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\obj\Debug\net6.0\TCP_server.csproj.AssemblyReference.cache
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\obj\Debug\net6.0\TCP_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\obj\Debug\net6.0\TCP_server.AssemblyInfoInputs.cache
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\obj\Debug\net6.0\TCP_server.AssemblyInfo.cs
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\obj\Debug\net6.0\TCP_server.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\obj\Debug\net6.0\TCP_server.dll
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\obj\Debug\net6.0\refint\TCP_server.dll
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\obj\Debug\net6.0\TCP_server.pdb
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\obj\Debug\net6.0\TCP_server.genruntimeconfig.cache
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_server\obj\Debug\net6.0\ref\TCP_server.dll
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\bin\Debug\net6.0\TCP_server.exe
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\bin\Debug\net6.0\TCP_server.deps.json
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\bin\Debug\net6.0\TCP_server.runtimeconfig.json
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\bin\Debug\net6.0\TCP_server.dll
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\bin\Debug\net6.0\TCP_server.pdb
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\obj\Debug\net6.0\TCP_server.csproj.AssemblyReference.cache
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\obj\Debug\net6.0\TCP_server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\obj\Debug\net6.0\TCP_server.AssemblyInfoInputs.cache
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\obj\Debug\net6.0\TCP_server.AssemblyInfo.cs
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\obj\Debug\net6.0\TCP_server.csproj.CoreCompileInputs.cache
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\obj\Debug\net6.0\TCP_server.dll
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\obj\Debug\net6.0\refint\TCP_server.dll
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\obj\Debug\net6.0\TCP_server.pdb
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\obj\Debug\net6.0\TCP_server.genruntimeconfig.cache
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_server\obj\Debug\net6.0\ref\TCP_server.dll
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\bin\Debug\net6.0\TCP_server.exe
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\bin\Debug\net6.0\TCP_server.deps.json
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\bin\Debug\net6.0\TCP_server.runtimeconfig.json
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\bin\Debug\net6.0\TCP_server.dll
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\bin\Debug\net6.0\TCP_server.pdb
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\obj\Debug\net6.0\TCP_server.csproj.AssemblyReference.cache
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\obj\Debug\net6.0\TCP_server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\obj\Debug\net6.0\TCP_server.AssemblyInfoInputs.cache
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\obj\Debug\net6.0\TCP_server.AssemblyInfo.cs
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\obj\Debug\net6.0\TCP_server.csproj.CoreCompileInputs.cache
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\obj\Debug\net6.0\TCP_server.dll
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\obj\Debug\net6.0\refint\TCP_server.dll
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\obj\Debug\net6.0\TCP_server.pdb
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\obj\Debug\net6.0\TCP_server.genruntimeconfig.cache
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_server\obj\Debug\net6.0\ref\TCP_server.dll

@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TCP_client/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TCP_client.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TCP_client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCP_client/1.0.0": {
+      "type": "project",
+      "path": "../TCP_client/TCP_client.csproj",
+      "msbuildProject": "../TCP_client/TCP_client.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TCP_client >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\qew20\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Учеба\\7 семестр\\Паралельні обчислення\\PC_CW\\Client_1\\Client_1.csproj",
+      "projectName": "Client_1",
+      "projectPath": "D:\\Учеба\\7 семестр\\Паралельні обчислення\\PC_CW\\Client_1\\Client_1.csproj",
+      "packagesPath": "C:\\Users\\qew20\\.nuget\\packages\\",
+      "outputPath": "D:\\Учеба\\7 семестр\\Паралельні обчислення\\PC_CW\\Client_1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\qew20\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Учеба\\7 семестр\\Паралельні обчислення\\PC_CW\\TCP_client\\TCP_client.csproj": {
+              "projectPath": "D:\\Учеба\\7 семестр\\Паралельні обчислення\\PC_CW\\TCP_client\\TCP_client.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

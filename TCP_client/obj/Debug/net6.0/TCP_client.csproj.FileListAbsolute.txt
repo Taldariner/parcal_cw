@@ -1,0 +1,36 @@
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_client\bin\Debug\net6.0\TCP_client.deps.json
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_client\bin\Debug\net6.0\TCP_client.dll
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_client\bin\Debug\net6.0\TCP_client.pdb
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_client\obj\Debug\net6.0\TCP_client.csproj.AssemblyReference.cache
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_client\obj\Debug\net6.0\TCP_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_client\obj\Debug\net6.0\TCP_client.AssemblyInfoInputs.cache
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_client\obj\Debug\net6.0\TCP_client.AssemblyInfo.cs
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_client\obj\Debug\net6.0\TCP_client.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_client\obj\Debug\net6.0\TCP_client.dll
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_client\obj\Debug\net6.0\refint\TCP_client.dll
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_client\obj\Debug\net6.0\TCP_client.pdb
+C:\Users\nikit\source\RiderProjects\Parallel_5_laba_Pichenka\TCP_client\obj\Debug\net6.0\ref\TCP_client.dll
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_client\bin\Debug\net6.0\TCP_client.deps.json
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_client\bin\Debug\net6.0\TCP_client.dll
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_client\bin\Debug\net6.0\TCP_client.pdb
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_client\obj\Debug\net6.0\TCP_client.csproj.AssemblyReference.cache
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_client\obj\Debug\net6.0\TCP_client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_client\obj\Debug\net6.0\TCP_client.AssemblyInfoInputs.cache
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_client\obj\Debug\net6.0\TCP_client.AssemblyInfo.cs
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_client\obj\Debug\net6.0\TCP_client.csproj.CoreCompileInputs.cache
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_client\obj\Debug\net6.0\TCP_client.dll
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_client\obj\Debug\net6.0\refint\TCP_client.dll
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_client\obj\Debug\net6.0\TCP_client.pdb
+D:\Учеба\6 семестр\Паралельні обчислення\Labs_CSharp\Parallel_Computing_Labs\PC_Lab_5\TCP_client\obj\Debug\net6.0\ref\TCP_client.dll
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_client\bin\Debug\net6.0\TCP_client.deps.json
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_client\bin\Debug\net6.0\TCP_client.dll
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_client\bin\Debug\net6.0\TCP_client.pdb
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_client\obj\Debug\net6.0\TCP_client.csproj.AssemblyReference.cache
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_client\obj\Debug\net6.0\TCP_client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_client\obj\Debug\net6.0\TCP_client.AssemblyInfoInputs.cache
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_client\obj\Debug\net6.0\TCP_client.AssemblyInfo.cs
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_client\obj\Debug\net6.0\TCP_client.csproj.CoreCompileInputs.cache
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_client\obj\Debug\net6.0\TCP_client.dll
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_client\obj\Debug\net6.0\refint\TCP_client.dll
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_client\obj\Debug\net6.0\TCP_client.pdb
+D:\Учеба\7 семестр\Паралельні обчислення\PC_CW\TCP_client\obj\Debug\net6.0\ref\TCP_client.dll
