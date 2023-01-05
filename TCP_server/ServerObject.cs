@@ -6,9 +6,9 @@ namespace TCP_server;
 public class ServerObject
 {
     public static InvertedIndex SearchIndex = new InvertedIndex();
-    TcpListener _tcpListener;
+    TcpListener _tcpListener = new TcpListener(IPAddress.Any, 8888);
     List<ClientObject> _clients = new();
-    
+
     protected internal void AddConnection(ClientObject clientObject)
     {
         _clients.Add(clientObject);
@@ -16,45 +16,47 @@ public class ServerObject
 
     protected internal void RemoveConnection(string id)
     {
-        var client = _clients.FirstOrDefault(c => c.Id == id);
+        ClientObject client = _clients.FirstOrDefault(c => c.Id == id);
         if (client != null)
             _clients.Remove(client);
+        client?.Close();
     }
 
     protected internal void Listen()
     {
         try
         {
-            _tcpListener = new TcpListener(IPAddress.Any, 8888);
             _tcpListener.Start();
             SearchIndex.BuildIndex("");
             Console.WriteLine("Server is started. Waiting for connections...");
-            
+
             while (true)
             {
-                var tcpClient = _tcpListener.AcceptTcpClient();
+                TcpClient tcpClient = _tcpListener.AcceptTcpClient();
 
-                var clientObject = new ClientObject(tcpClient, this);
-                var clientThread = new Thread(clientObject.Process);
+                ClientObject clientObject = new ClientObject(tcpClient, this);
+                Thread clientThread = new Thread(clientObject.Process);
                 clientThread.Start();
             }
         }
         catch (Exception ex)
         {
             Console.WriteLine(ex.Message);
+        }
+        finally
+        {
             Disconnect();
         }
     }
 
     protected internal void Disconnect()
     {
-        _tcpListener.Stop();
-
         foreach (var client in _clients)
         {
             client.Close();
         }
 
+        _tcpListener.Stop();
         Environment.Exit(0);
     }
 }

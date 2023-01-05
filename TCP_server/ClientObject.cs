@@ -5,16 +5,16 @@ namespace TCP_server;
 
 public class ClientObject
 {
-    protected internal string Id { get; private set; }
+    protected internal string Id { get; } = Guid.NewGuid().ToString();
     protected internal NetworkStream Stream { get; private set; }
-    
+
     string _userName;
     TcpClient _client;
     ServerObject _server;
 
     public ClientObject(TcpClient tcpClient, ServerObject serverObject)
     {
-        Id = Guid.NewGuid().ToString();
+        //Id = Guid.NewGuid().ToString();
         _client = tcpClient;
         _server = serverObject;
         serverObject.AddConnection(this);
@@ -76,7 +76,7 @@ public class ClientObject
             bytes = Stream.Read(data, 0, data.Length);
             builder.Append(Encoding.Unicode.GetString(data, 0, bytes));
         } while (Stream.DataAvailable);
-        
+
         return builder.ToString();
     }
 

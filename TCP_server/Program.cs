@@ -1,9 +1,9 @@
 ﻿using TCP_server;
 
-var server = new ServerObject();
+ServerObject server = new ServerObject();
 try
 {
-    var listenThread = new Thread(server.Listen);
+    Thread listenThread = new Thread(server.Listen);
     listenThread.Start();
 }
 catch (Exception e)

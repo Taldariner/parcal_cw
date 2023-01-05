@@ -9,8 +9,6 @@ public class Client
     readonly string _name;
     readonly string _server;
 
-    //private int countsOfQuestions;
-
     TcpClient _client;
     NetworkStream _stream;
 
@@ -22,7 +20,6 @@ public class Client
 
         _client = new TcpClient();
         _stream = null;
-        //countsOfQuestions = 10;
     }
 
     public void RunClient()
@@ -82,14 +79,11 @@ public class Client
 
                 var message = builder.ToString();
                 Console.WriteLine(message);
-                
-                //if (countsOfQuestions == 0) break;
-                //countsOfQuestions--;
             }
             catch
             {
                 Console.WriteLine("Connection is lose!");
-                Console.ReadLine();
+                //Console.ReadLine();
                 Disconnect();
             }
         }
