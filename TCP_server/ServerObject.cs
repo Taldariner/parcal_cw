@@ -5,8 +5,10 @@ namespace TCP_server;
 
 public class ServerObject
 {
+    public static InvertedIndex SearchIndex = new InvertedIndex();
     TcpListener _tcpListener;
     List<ClientObject> _clients = new();
+    
     protected internal void AddConnection(ClientObject clientObject)
     {
         _clients.Add(clientObject);
@@ -25,7 +27,7 @@ public class ServerObject
         {
             _tcpListener = new TcpListener(IPAddress.Any, 8888);
             _tcpListener.Start();
-
+            SearchIndex.BuildIndex("");
             Console.WriteLine("Server is started. Waiting for connections...");
             
             while (true)

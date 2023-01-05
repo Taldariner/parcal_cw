@@ -15,5 +15,20 @@ public class InvertedIndexMessage
 
 public class InvertedIndex
 {
+    public InvertedIndex()
+    {
+        
+    }
 
+    public void BuildIndex(string directory)
+    {
+        
+    }
+
+    public InvertedIndexMessage RequestIndex(string word)
+    {
+        InvertedIndexMessage RequestResult = new InvertedIndexMessage(word);
+        RequestResult.Answer.Add("Result for world \"" + word + "\"");
+        return RequestResult;
+    }
 }

@@ -22,7 +22,8 @@ public class ClientObject
 
     public void Process()
     {
-        Test test = new Test();
+        //Test test = new Test();
+        //InvertedIndex SearchIndex = new InvertedIndex();
         try
         {
             Stream = _client.GetStream();
@@ -31,15 +32,17 @@ public class ClientObject
 
             message = _userName + " joined to system";
             Console.WriteLine(message);
-            while (test.GetQuestionsCount() != 0)
+            while (true)
             {
                 try
                 {
-                    var question = test.PeekQuestion();
-                    var data = Encoding.Unicode.GetBytes(question);
-                    Stream.Write(data, 0, data.Length);
+                    //var question = test.PeekQuestion();
+                    //var data = Encoding.Unicode.GetBytes(question);
+                    //Stream.Write(data, 0, data.Length);
                     message = GetMessage();
-                    test.CheckQuestion(Convert.ToInt32(message));
+                    var result = ServerObject.SearchIndex.RequestIndex(Convert.ToString(message));
+                    var data = Encoding.Unicode.GetBytes(result.Answer[0]);
+                    Stream.Write(data, 0, data.Length);
                 }
                 catch
                 {

@@ -82,9 +82,7 @@ public class Client
 
                 var message = builder.ToString();
                 Console.WriteLine(message);
-
-                //TODO передавати кількість питань тесту автоматично
-
+                
                 //if (countsOfQuestions == 0) break;
                 //countsOfQuestions--;
             }
