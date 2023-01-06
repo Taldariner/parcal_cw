@@ -19,7 +19,7 @@ public class Client
         _port = port;
 
         _client = new TcpClient();
-        _stream = null;
+        //_stream = _client.GetStream(); //null;
     }
 
     public void RunClient()

@@ -30,7 +30,7 @@ public class ClientObject
             var message = GetMessage();
             _userName = message;
 
-            message = _userName + " joined to system";
+            message = _userName + " joined to system.";
             Console.WriteLine(message);
             while (true)
             {
@@ -41,8 +41,12 @@ public class ClientObject
                     //Stream.Write(data, 0, data.Length);
                     message = GetMessage();
                     var result = ServerObject.SearchIndex.RequestIndex(Convert.ToString(message));
-                    var data = Encoding.Unicode.GetBytes(result.Answer[0]);
-                    Stream.Write(data, 0, data.Length);
+                    foreach (var answer in result.Answer)
+                    {
+                        var data = Encoding.Unicode.GetBytes(answer);
+                        Stream.Write(data, 0, data.Length);
+                    }
+                    
                 }
                 catch
                 {

@@ -1,3 +1,4 @@
+using System.Diagnostics;
 using System.Net;
 using System.Net.Sockets;
 
@@ -26,9 +27,19 @@ public class ServerObject
     {
         try
         {
+            string[] separatingStrings = {".", ",", "<br", " ", ":", ";", "/>", "<br/>", "\"", "?", "!"};
+            var folder = @"D:\Учеба\7 семестр\Паралельні обчислення\data";
+
             _tcpListener.Start();
-            SearchIndex.BuildIndex("");
-            Console.WriteLine("Server is started. Waiting for connections...");
+
+            var timer = new Stopwatch();
+            timer.Start();
+            SearchIndex.BuildIndex(folder, separatingStrings);
+            timer.Stop();
+
+            Console.WriteLine("Inverted index built in " + timer.ElapsedMilliseconds + " milliseconds using " +
+                              SearchIndex.threadCount.ToString() +
+                              " threads. Server is started. Waiting for connections...");
 
             while (true)
             {
