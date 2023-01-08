@@ -5,11 +5,13 @@ namespace TCP_server;
 public class InvertedIndexMessage
 {
     public string Request;
+    public int Count;
     public List<string> Answer;
 
     public InvertedIndexMessage(string request)
     {
         Request = request;
+        Count = 0;
         Answer = new List<string>();
     }
 }
@@ -74,22 +76,23 @@ public class InvertedIndex
     public InvertedIndexMessage RequestIndex(string word)
     {
         var timer = new Stopwatch();
+
         timer.Start();
-        
         InvertedIndexMessage requestResult = new InvertedIndexMessage(word);
         requestResult.Answer.Add("Result for world \"" + word + "\"" + ":\n");
-        foreach (var result in invertedIndex[word])
+        if (invertedIndex.ContainsKey(word))
         {
-            requestResult.Answer.Add(result.Key + " \t- " + result.Value + "\n");
+            foreach (var result in invertedIndex[word])
+            {
+                requestResult.Answer.Add(result.Key + " \t- " + result.Value + "\n");
+                requestResult.Count += result.Value;
+            }
         }
 
         timer.Stop();
         
-        requestResult.Answer.Add("Totally founded: " + (requestResult.Answer.Count - 1).ToString() + " results in " +
+        requestResult.Answer.Add("Totally founded: " + requestResult.Count + " results in " +
                                  timer.ElapsedMilliseconds + " milliseconds.\n");
         return requestResult;
     }
-
-    public Dictionary<string, int> this[string text] =>
-        (invertedIndex.ContainsKey(text) ? invertedIndex[text] : null)!;
 }
