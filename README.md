@@ -6,4 +6,6 @@ $ git clone https://github.com/Taldariner/parcal_cw.git
 ```
 2. Open the repository in Microsoft Visual Studio or JetBrains Rider, build and run the solution.
 ## Needed for launch
-> .NET Runtime 6.0.12
+> .NET Core 3.1
+
+> .NET Framework 4.8
