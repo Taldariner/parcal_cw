@@ -14,7 +14,6 @@ public class ClientObject
 
     public ClientObject(TcpClient tcpClient, ServerObject serverObject)
     {
-        //Id = Guid.NewGuid().ToString();
         _client = tcpClient;
         _server = serverObject;
         serverObject.AddConnection(this);
@@ -22,8 +21,6 @@ public class ClientObject
 
     public void Process()
     {
-        //Test test = new Test();
-        //InvertedIndex SearchIndex = new InvertedIndex();
         try
         {
             Stream = _client.GetStream();
@@ -36,9 +33,6 @@ public class ClientObject
             {
                 try
                 {
-                    //var question = test.PeekQuestion();
-                    //var data = Encoding.Unicode.GetBytes(question);
-                    //Stream.Write(data, 0, data.Length);
                     message = GetMessage();
                     var result = ServerObject.SearchIndex.RequestIndex(Convert.ToString(message));
                     foreach (var answer in result.Answer)
@@ -55,9 +49,6 @@ public class ClientObject
                     break;
                 }
             }
-
-            //var score = Encoding.Unicode.GetBytes($"Your score is {test.Score}");
-            //Stream.Write(score, 0, score.Length);
         }
         catch (Exception e)
         {
@@ -74,10 +65,9 @@ public class ClientObject
     {
         var data = new byte[64];
         var builder = new StringBuilder();
-        var bytes = 0;
         do
         {
-            bytes = Stream.Read(data, 0, data.Length);
+            var bytes = Stream.Read(data, 0, data.Length);
             builder.Append(Encoding.Unicode.GetString(data, 0, bytes));
         } while (Stream.DataAvailable);
 

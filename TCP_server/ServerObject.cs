@@ -28,16 +28,19 @@ public class ServerObject
         try
         {
             string[] separatingStrings = {".", ",", "<br", " ", ":", ";", "/>", "<br/>", "\"", "?", "!"};
-            var folder = @"D:\Учеба\7 семестр\Паралельні обчислення\data";
+            var folder = @"D:\Учеба\7 семестр\Паралельні обчислення\data\";
 
             _tcpListener.Start();
 
             var timer = new Stopwatch();
             timer.Start();
-            SearchIndex.BuildIndex(folder, separatingStrings);
+            for (int i = 0; i < 10; i++)
+            {
+                SearchIndex.BuildIndex(folder, separatingStrings);
+            }
             timer.Stop();
 
-            Console.WriteLine("Inverted index built in " + timer.ElapsedMilliseconds + " milliseconds using " +
+            Console.WriteLine("Inverted index built in " + timer.ElapsedMilliseconds/10 + " milliseconds using " +
                               SearchIndex.threadCount.ToString() +
                               " threads. Server is started. Waiting for connections...");
 
